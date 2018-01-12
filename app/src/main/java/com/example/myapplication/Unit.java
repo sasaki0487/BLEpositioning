@@ -4,6 +4,7 @@ import java.util.Calendar;
 
 /**
  * Created by 曜多 on 2017/11/26.
+ * file for bluetooth unit data
  */
 
 public class Unit{
